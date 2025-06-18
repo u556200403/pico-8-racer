@@ -3,7 +3,7 @@
 This is a cartridge for the fantasy console **PICO-8**.
 
 Play it in browser:  
-👉 [https://u556200403.github.io/pico-8-racer/](https://u556200403.github.io/pico-8-snake/)
+👉 [https://u556200403.github.io/pico-8-racer/](https://u556200403.github.io/pico-8-racer/)
 
 ## Features
 
